@@ -20,7 +20,7 @@ const EarthCanvas = () => {
   const images = [x, gmail, instagram, githublogo, linkedin];
   const urls = [
     "https://twitter.com/AbhiMahajan_001",
-    "abhishekmahajan8285@gmail.com",
+    "mailto:abhishekmahajan8285@gmail.com?subject=Inquiry&body=Hi%20Abhi,%20I%27d%20like%20to%20discuss%20...",
     "https://www.instagram.com/abhi_mahajan_100/",
     "https://github.com/abhishekmahaja",
     "https://www.linkedin.com/in/abhi-mahajan-451227241/",
